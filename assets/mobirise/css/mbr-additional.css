@@ -1765,7 +1765,7 @@ body {
 .cid-qVPjE9tFfy {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/background2.jpg");
+  background-image: url("../../../assets/images/28-12-1800x1350.jpg");
 }
 .cid-qVPjE9tFfy .list-group-item {
   padding: .75rem 3.25rem;
@@ -1812,11 +1812,24 @@ body {
 .cid-qVPjE9tFfy .price-value {
   font-weight: 700;
   vertical-align: top;
+  color: #ffffff;
 }
 @media (max-width: 550px) {
   .cid-qVPjE9tFfy .price-figure {
     font-size: 4.25rem;
   }
+}
+.cid-qVPjE9tFfy SPAN {
+  color: #ff3366;
+}
+.cid-qVPjE9tFfy .plan-title {
+  color: #ffffff;
+}
+.cid-qVPjE9tFfy LI {
+  color: #232323;
+}
+.cid-qVPjE9tFfy UL {
+  color: #14cc49;
 }
 .cid-qVPgxIu5Ly {
   padding-top: 90px;
